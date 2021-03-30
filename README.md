@@ -1,2 +1,2 @@
 # User-Filter
-Random user filter with javascript
+Random user filter in javascript
